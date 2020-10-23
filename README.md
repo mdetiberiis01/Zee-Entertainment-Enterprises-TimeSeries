@@ -30,7 +30,7 @@ I wanted to take a closer at **Zee Entertainment Enterprises Limited (ZEEL)**, a
 ## Summary of Findings
 
 - Our model performed quite well with an RMSE between 9.37 and 9.53. As you can see in the figure our predictions were quite close to the actual values.
-![](https://github.com/mdetiberiis01/Zee-Entertainment-Enterprises-TimeSeries/blob/main/forecasted_price.png)
+![](https://github.com/mdetiberiis01/Zee-Entertainment-Enterprises-TimeSeries/blob/main/Visualization/forecasted_price.png)
 
 - In recent times, on average more days have had a higher open than close price which can be seen in the steady decline in share value since 2018.
 
@@ -43,7 +43,7 @@ I wanted to take a closer at **Zee Entertainment Enterprises Limited (ZEEL)**, a
 - The week of October 19, 2020 to October 23, 2020 is a good week buy shares early in the week and sell before market close on Friday.
 
 - ZEEL has been having more days with a lower closing price than opening price since  which would make us suggest looking for a new company to invest in in order to have higher returns at a faster rate.
-![](https://github.com/mdetiberiis01/Zee-Entertainment-Enterprises-TimeSeries/blob/main/30day_average.png)
+![](https://github.com/mdetiberiis01/Zee-Entertainment-Enterprises-TimeSeries/blob/main/Visualization/30day_average.png)
 
 ## Limitations and Future Work
 
